@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map Bistable
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rc5	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+codeReceived	KEYWORD2
+newKeyPressed 	KEYWORD2
+rawCode KEYWORD2
+Command KEYWORD2
+Address KEYWORD2
+skipThisCode KEYWORD2
